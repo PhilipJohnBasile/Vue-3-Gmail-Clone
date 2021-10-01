@@ -9,7 +9,6 @@
       Loading...
     </template>
   </Suspense>
-
 </template>
 
 <script>
@@ -19,7 +18,7 @@ export default {
   name: 'App',
   components: {
     MailTable
-  }
+  },
 };
 </script>
 
